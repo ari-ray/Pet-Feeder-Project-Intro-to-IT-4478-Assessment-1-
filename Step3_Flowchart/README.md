@@ -1,6 +1,6 @@
 # Step 3: Algorithm Design (Flowchart)
 
-This folder contains the algorithm design of the pet feeder system, represented as a flowchart. The algorithm demonstrates the decision-making process, from checking the time to dispensing food and handling errors.
+This folder contains the algorithm design of the pet feeder system, represented in a flowchart. The algorithm demonstrates the decision-making process, from checking the time to dispensing food and handling errors.
 
 ### Contents
 
