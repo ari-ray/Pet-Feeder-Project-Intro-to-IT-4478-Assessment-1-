@@ -1,6 +1,6 @@
 # Step 4: Word Code Implementation
 
-This folder holds the pseudocode implementation of the algorithm from Step3_Flowchart, written in plain English "Word Code". This translates the visual diagram of the flowchart into a structured, sequential set of tasks that are easy for humans to read and understand.
+This folder holds the pseudocode implementation of the algorithm from Step3_Flowchart, written in plain English. This translates the visual diagram of the flowchart into a structured, sequential set of tasks that are easy for humans to read and understand.
 
 ### Contents
 
